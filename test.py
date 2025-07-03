@@ -1,5 +1,4 @@
-
-import math, sys;
+ import math, sys;
  def example1():
     ####This is a long comment. This should be wrapped to fit within 72 characters.
     some_tuple=(   1,2, 3,'a'  );
@@ -18,6 +17,4 @@ import math, sys;
                        Indentation in multiline strings should not be touched.
  Only actual code should be reindented.
  """
-                        return (sys.path, some_string)
-
-           
+                    return (sys.path, some_string)
